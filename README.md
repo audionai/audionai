@@ -8,4 +8,7 @@ Go check https://sign-1-qxbe.onrender.com/
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=audionai)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/YOUR_USERNAME)](https://git.io/awesome-stats-card)
+
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=audionai)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/audionai)](https://git.io/awesome-stats-card)
